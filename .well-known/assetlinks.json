@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.blazenxt.vibetube",
+      "sha256_cert_fingerprints": [
+        "36:F7:BC:37:3B:44:9A:D2:BB:A6:C2:47:8C:5F:C5:0E:F8:03:18:9F:26:0B:7B:41:E8:18:B2:3E:D3:01:71:BF"
+      ]
+    }
+  }
+]
